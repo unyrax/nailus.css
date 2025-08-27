@@ -1,0 +1,32 @@
+{
+  "name": "nailus.css",
+  "version": "1.0.0",
+  "description": "Moteur CSS atomique pour créer rapidement des interfaces utilisateur personnalisées.",
+  "keywords": [
+    "nailus.css",
+    "tailwindcss",
+    "unocss",
+    "windicss",
+    "bootstrap",
+    "typescript",
+    "JS",
+    "JSX",
+    "HTML",
+    "CSS"
+  ],
+  "homepage": "https://github.com/unyrax/nailus.css#readme",
+  "bugs": {
+    "url": "https://github.com/unyrax/nailus.css/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unyrax/nailus.css.git"
+  },
+  "license": "MIT",
+  "author": "Naïloth Esdras NSOUNDA NSILULU",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
