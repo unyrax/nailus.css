@@ -1,3 +1,51 @@
+lib-cov
+*.seed
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+temp.*
+
+pids
+results
+tmp
+
+# Build
+public/css/main.css
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist
+*.css
+*.html
+*.nailus
+src/**/*.js
+example/**/*.js
+
+# Don't ignore example files
+!test/assets/**
+# ignore yarn.lock
+yarn.lock
+
+# Vitepress
+dist
+
+# Algolia
+.algolia.env
+
+!test/extend.d.ts
+!test/plugin/typography/src/*.d.ts
+!test/plugin/typography/index.html
+
 # Logs
 logs
 *.log
